@@ -46,11 +46,13 @@ Here are the top verified Educative.io discounts currently available:
 
 
 ## 🧠 What is Educative.io?
+
 Educative.io is a browser-based learning platform designed specifically for software developers, data engineers, DevOps professionals, and computer science learners.
 
 Unlike video-heavy platforms, Educative uses interactive text-based lessons and real-time coding sandboxes, so you can learn faster and apply your skills instantly.
 
 ## 🔍 Key Offerings:
+
 - 1400+ courses in programming, DevOps, AI, and cloud
 
 - Interview prep tracks like "Grokking the Coding Interview"
@@ -152,6 +154,7 @@ Even without a coupon, here are some great freebies on Educative.io:
 You can start learning for free and upgrade later with a coupon.
 
 ## ❓ Frequently Asked Questions (FAQs)
+
 
 ### 💬 Is there a student discount for Educative?
 Not officially, but some regions or partners may offer student-focused pricing. Check the checkout page for personalized offers.
